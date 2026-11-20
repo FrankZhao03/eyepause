@@ -1,5 +1,7 @@
 # EyePause 0.2.0
 
+A lightweight macOS app for screen breaks and hydration reminders.
+
 原生 macOS 菜单栏眼睛休息工具。图标为系统的 `binoculars.fill`（望远镜），不使用眼睛或太阳表情，不显示 Dock 图标。数据只保存在本机，没有账号、订阅、网络和分析服务。
 
 ## 打开与退出
